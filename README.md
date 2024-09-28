@@ -3,7 +3,7 @@
 ## DevOps/SRE
 
 Welcome to my GitHub profile! I am a senior student majoring in Computer Networks and Data Communications at the University of
-Information Technology - VNUHCM, I am focusing on networking, containerization, CI/CD pipelines, cloud
+Information Technology - VNUHCM. I am focusing on networking, containerization, CI/CD pipelines, cloud
 technologies, automations, and monitoring systems.
 
 ### 🔧 Technologies and Tools
