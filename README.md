@@ -1,16 +1,28 @@
-## Hi there 👋
+### I'm Tran Chuc Thien 👋
 
-<!--
-**TranChucThien/TranChucThien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps/SRE
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a senior student majoring in Computer Networks and Data Communications at the University of
+Information Technology - VNUHCM, I am focusing on networking, containerization, CI/CD pipelines, cloud
+technologies, automations, and monitoring systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies and Tools
+
+- **Cloud**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub Actions
+- **Configuration Management**: Ansible, Terraform
+- **Monitoring**: Prometheus, Grafana, Datadog
+- **Scripting**: Bash, Python
+- **Version Control**: Git, GitHub
+
+### 📫 How to reach me
+
+- chucthien2@gmail.com
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
+
+Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
