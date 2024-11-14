@@ -14,7 +14,7 @@ technologies, automations, and monitoring systems.
 - **Configuration Management**: Ansible, Terraform
 - **Monitoring**: Prometheus, Grafana, Datadog
 - **Scripting**: Bash, Python
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub,p Bitbucket
 
 ### 📫 How to reach me
 
