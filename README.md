@@ -23,9 +23,6 @@
   <img src="https://img.shields.io/badge/-AWS-16a34a?style=flat&logo=aws" alt="AWS" /> <img src="https://img.shields.io/badge/-Docker-16a34a?style=flat&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/-Kubernetes-16a34a?style=flat&logo=kubernetes" alt="Kubernetes" /> <img src="https://img.shields.io/badge/-GitHub Actions-16a34a?style=flat&logo=GitHubActions" alt="GitHubActions" /> <img src="https://img.shields.io/badge/-Jenkins-16a34a?style=flat&logo=jenkins" alt="Jenkins" /> <img src="https://img.shields.io/badge/-Terrafrom-16a34a?style=flat&logo=terrafrom" alt="Terrafrom" /> <img src="https://img.shields.io/badge/-Datadog-16a34a?style=flat&logo=datadog" alt="Datadog" /> <img src="https://img.shields.io/badge/-Prometheus-16a34a?style=flat&logo=prometheus" alt="Prometheus" /> <img src="https://img.shields.io/badge/-Grafana-16a34a?style=flat&logo=grafana" alt="Grafana" /> <img src="https://img.shields.io/badge/-Bash-16a34a?style=flat&logo=bash" alt="Bash" /> <img src="https://img.shields.io/badge/-Python-16a34a?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/-Git-16a34a?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/-Bitbucket-16a34a?style=flat&logo=bitbucket" alt="Bitbucket" /> <img src="https://img.shields.io/badge/-Trivy-16a34a?style=flat&logo=trivy" alt="Trivy" /> <img src="https://img.shields.io/badge/-Sonarqube-16a34a?style=flat&logo=sonarqube" alt="Sonarqube" /> <img src="https://img.shields.io/badge/-ArgoCD-16a34a?style=flat&logo=argocd" alt="ArgoCD" /> <img src="https://img.shields.io/badge/-Locust-16a34a?style=flat&logo=locust" alt="Locust" /> <img src="https://img.shields.io/badge/-Traefik-16a34a?style=flat&logo=traefik" alt="Traefik" />
   </div>
   
-  ## 📊 GitHub Stats
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=TranChucThien&theme=juicyfresh&no-frame=true&row=1&https://github-profile-trophy.vercel.app/?username=TranChucThien&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 
 
 
@@ -36,10 +33,5 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranChucThien&theme=react-dark" alt="Contribution Graph" />
 
-
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=TranChucThien&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
