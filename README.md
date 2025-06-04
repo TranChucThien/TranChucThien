@@ -28,11 +28,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TranChucThien&theme=juicyfresh&no-frame=true&row=1&https://github-profile-trophy.vercel.app/?username=TranChucThien&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 
 
-## 🔥 Featured Repositories
 
-<table>
-<tr><td align="center" width="50%"><a href="https://github.com/Chuc-Thien-DevOps-Final-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChucThien&repo=kltn-model-monitoring&theme=tokyonight&show_owner=false" alt="kltn-model-monitoring" /></a></td><td align="center" width="50%"><a href="https://github.com/TranChucThien/kltn-sentiment-monitoring-mlops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChucThien&repo=kltn-sentiment-monitoring-mlops&theme=tokyonight&show_owner=false" alt="kltn-sentiment-monitoring-mlops" /></a></td></tr><tr><td align="center" width="50%"><a href="https://github.com/TranChucThien/argocd-example"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChucThien&repo=argocd-example&theme=tokyonight&show_owner=false" alt="argocd-example" /></a></td><td align="center" width="50%"><a href="https://github.com/TranChucThien/mlops-network_security_system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChucThien&repo=mlops-network_security_system&theme=tokyonight&show_owner=false" alt="mlops-network_security_system" /></a></td></tr><tr><td align="center" width="50%"><a href="https://github.com/TranChucThien/IS402.P21-Resource-Monitoring-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChucThien&repo=IS402.P21-Resource-Monitoring-App&theme=tokyonight&show_owner=false" alt="IS402.P21-Resource-Monitoring-App" /></a></td><td align="center" width="50%"><a href="https://github.com/TranChucThien/terraform_lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TranChucThien&repo=terraform_lab&theme=tokyonight&show_owner=false" alt="terraform_lab" /></a></td></tr>
-</table>
 
 
 
