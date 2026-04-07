@@ -3,7 +3,7 @@
 
   # 👨‍💻 Junior DevOps Engineer
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=500&lines=Building+Highly+Available+Infrastructure;Cloud+%7C+Containers+%7C+CI%2FCD+%7C+IaC+%7C+Monitoring;Automate+AMAP+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=500&lines=Building+Highly+Available+Infrastructure;Cloud+%7C+Containers+%7C+CI%2FCD;IaC+%7C+Monitoring+%7C+Automation;Automate+AMAP+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
   🎓 Computer Networks & Data Communications — **UIT-VNUHCM**
   🏢 **KienlongBank** · 📍 Ho Chi Minh City, Vietnam
